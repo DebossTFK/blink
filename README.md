@@ -1,2 +1,1 @@
-# blink
 discord selfbot
